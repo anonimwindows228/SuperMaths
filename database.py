@@ -2,6 +2,7 @@ from pymongo import MongoClient
 from dotenv import load_dotenv
 from datetime import date, datetime
 import hashlib
+import streamlit as st
 import os
 
 MONGO_URI = st.secrets.get("MONGO_URI") or os.getenv("MONGO_URI")
@@ -110,3 +111,4 @@ def advance_level(username):
 def delete_assignments(username, level):
 
     assignments.delete_many({"username": username, "level": level})
+
