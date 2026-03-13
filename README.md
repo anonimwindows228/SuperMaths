@@ -53,7 +53,7 @@ supermaths/
 
 ## 🎓 Curriculum
 
-SuperMaths covers 12 levels spanning Grades 1–12:
+SuperMaths covers 12 levels spanning Grades 1-12:
 
 | Level | Topics |
 |---|---|
