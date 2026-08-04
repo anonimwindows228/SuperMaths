@@ -36,7 +36,6 @@ SuperMaths adapts to your level, generates unlimited practice questions, and giv
 | AI Model | [Groq](https://groq.com/) - LLaMA 3.3 70B Versatile |
 | Hosting | [Streamlit Community Cloud](https://streamlit.io/cloud) |
 
-```
 
 ---
 
